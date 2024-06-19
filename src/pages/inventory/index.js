@@ -70,7 +70,7 @@ const Inventory = () => {
                       />
                     </svg>
                   </button>
-                   <Link href={`/inventorys/${item.id}`} className="bg-gray-200 text-black px-4 py-2   rounded-xl">
+                   <Link href={`/inventory/${item.id}`} className="bg-gray-200 text-black px-4 py-2   rounded-xl">
                     {/* <span className="bg-blue-700 text-white px-4 py-2 rounded-xl ml-10 "> */}
                       <svg
                         xmlns="http://www.w3.org/2000/svg"
