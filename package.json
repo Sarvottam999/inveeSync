@@ -2,6 +2,9 @@
   "name": "inventory-management",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://sarvottam999.github.io/inveeSync",
+
+  
   "scripts": {
     "dev": "next dev",
     "build": "next build",
